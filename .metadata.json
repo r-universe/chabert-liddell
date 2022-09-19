@@ -1,5 +1,9 @@
 [
   {
+    "package": "MLVSBM",
+    "oncran": true
+  },
+  {
     "package": "robber",
     "oncran": true
   }
