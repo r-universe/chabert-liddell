@@ -1,10 +1,10 @@
 [
   {
-    "package": "robber",
+    "package": "MLVSBM",
     "oncran": true
   },
   {
-    "package": "MLVSBM",
+    "package": "robber",
     "oncran": true
   }
 ]
